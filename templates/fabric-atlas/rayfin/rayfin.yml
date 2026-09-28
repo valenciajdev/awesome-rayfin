@@ -8,6 +8,8 @@ services:
       enabled: true
     allowedRedirectUris:
       - http://localhost:5173
+      - http://127.0.0.1:5173
+      - https://rival-pond-3107d4d3c8-centralus.webapp.fabricapps.net
   data:
     enabled: true
     dialect: mssql
@@ -18,5 +20,6 @@ services:
     folder: dist
     buildCommand: npm run build:fabric
     indexDocument: index.html
+    assetAccess: protected
   functions:
     enabled: false

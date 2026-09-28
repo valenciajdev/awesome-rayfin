@@ -1,0 +1,15 @@
+[2026-09-28T17:22:40.907Z] [INFO] ========================================================================================================================
+[2026-09-28T17:22:40.907Z] [INFO] Initializing MAM Client.
+App: com.microsoft.edge 154.0.4258.37
+SDK: 2.1.367.0
+OS: windows 10.0.26300.9457
+DeviceType: Desktop
+Manufacturer: Microsoft Corporation
+Model: Microsoft Surface Laptop, 7th Edition
+Telemetry: yes
+Managed device support: enabled
+[2026-09-28T17:22:40.907Z] [INFO] Telemetry session 16e30039-66a1-4dd5-89fc-a36a232f5fed.
+[2026-09-28T17:22:40.907Z] [INFO] Initializing cache (v1).
+[2026-09-28T17:23:19.975Z] [INFO] Shutting down.
+[2026-09-28T17:23:19.975Z] [INFO] Stopping the task scheduler and canceling any outstanding work items...
+[2026-09-28T17:23:19.975Z] [INFO] Task scheduler has stopped, and all work has been canceled.
