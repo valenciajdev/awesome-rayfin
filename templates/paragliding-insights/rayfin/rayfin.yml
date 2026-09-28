@@ -11,6 +11,8 @@ services:
     allowedRedirectUris:
       - http://localhost:5173
       - http://127.0.0.1:4175
+      - http://127.0.0.1:5173
+      - https://palm-field-6f0254bba9-centralus.webapp.fabricapps.net
   data:
     enabled: false
   staticHosting:
@@ -18,6 +20,7 @@ services:
     folder: dist
     buildCommand: npm run build:fabric
     indexDocument: index.html
+    assetAccess: protected
   storage:
     enabled: false
   functions:
