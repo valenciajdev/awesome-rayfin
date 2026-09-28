@@ -1,0 +1,5 @@
+2026/09/28-13:22:45.537 77d4 Creating DB C:\Users\jovalenc\repos\Fabric\rayfin\awesome-rayfin\templates\temp\scheduler-deploy-profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/09/28-13:22:45.597 77d4 Reusing MANIFEST C:\Users\jovalenc\repos\Fabric\rayfin\awesome-rayfin\templates\temp\scheduler-deploy-profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/09/28-13:22:45.844 9964 Level-0 table #5: started
+2026/09/28-13:22:45.846 9964 Level-0 table #5: 683273 bytes OK
+2026/09/28-13:22:45.848 9964 Delete type=0 #3
